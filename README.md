@@ -22,7 +22,7 @@ Identity Toolkit API <br />
 Stackdriver Trace API<br /> 
 Token Service API <br />
 
-The Application provides a lot of facilities to its users depending on the user type. For the user type donor the application provides following features:
+The Application provides a lot of facilities to its users depending on the user type. For the user type donor the application provides following features:<br />
 •	Login Authentication<br />
 •	Single Login to Donate to various Organizations<br />
 •	View all the Organizations on the map which confirms the Organizations registration<br />
