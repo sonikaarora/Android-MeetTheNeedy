@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/signin"
+            android:icon="@drawable/common_full_open_on_phone"
+            android:title="Sign In" />
+        <item
+            android:id="@+id/signup"
+            android:icon="@mipmap/signup"
+            android:title="Sign Up" />
+        <item
+            android:id="@+id/ngo"
+            android:icon="@drawable/ngo"
+            android:title="NGO" />
+        <item
+            android:id="@+id/libraries"
+            android:icon="@mipmap/library"
+            app:showAsAction="ifRoom"
+            android:title="Libraries" />
+    </group>
+
+</menu>
